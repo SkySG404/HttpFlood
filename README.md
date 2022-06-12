@@ -12,7 +12,7 @@ Windows
 -python httpflood.py
 
 linux
--git clone git clone https://github.com/SkySG404/HttpFlood/
+-git clone https://github.com/SkySG404/HttpFlood/
 -cd HttpFlood
 -python3 httpflood.py
 ```
